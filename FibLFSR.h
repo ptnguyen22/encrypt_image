@@ -1,8 +1,5 @@
 /*
-Name: Peter Nguyen
-Assignment: ps1a
-Instructor: Dr. Yelena Rykalova
-Due: 9/20/21
+Peter Nguyen
 Last Updated: 9/20/21
 FibLFSR.h: Header file with declarations. Implementation
            in FibLFSR.cpp
